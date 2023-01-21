@@ -1,0 +1,12 @@
+.ali-btn{
+    background: linear-gradient(to left,rgb(234, 9, 9), rgb(255, 132, 0));
+}
+.ali-position{
+    position: relative;
+}
+.price{
+    position:absolute;
+    top: 60%;
+    left: 10%;
+
+}
